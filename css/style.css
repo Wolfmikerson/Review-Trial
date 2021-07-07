@@ -1,0 +1,18 @@
+#navbar{
+position: fixed; 
+left: 0;
+
+}
+
+#main-doc{
+    margin-left: 280px;
+}
+
+  @media (min-width: 1281px) {
+  
+    /* CSS */
+    p{
+background-color: blue;
+    }
+    
+  }
